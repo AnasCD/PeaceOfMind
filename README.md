@@ -37,3 +37,14 @@ This project is a web application designed to bridge the gap between therapists 
 + Backend: Express.js (Node.js)
 
 + Database: PostgreSQL
+
+
+## Getting Started
+
+# Setup Instructions
+1. Clone the repository:
+git clone https://github.com/your-username/therapist-patient-platform.git
+cd therapist-patient-platform
+2. 
+3. 
+4. 
