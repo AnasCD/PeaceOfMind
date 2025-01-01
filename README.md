@@ -60,3 +60,7 @@ npx sequelize-cli db:migrate
 npm start/ npm run dev
 6. Access the app
 http://localhost:3000
+
+# Acknowledgments
++ Special thanks to our team for their dedication and hard work.
++ Inspired by the growing need for accessible mental health support.
