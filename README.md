@@ -48,7 +48,7 @@ This project is a web application designed to bridge the gap between therapists 
 # Setup Instructions
 1. Clone the repository:
 git clone https://github.com/AnasCD/PeaceOfMind.git
-cd therapist-patient-platform
+- cd PeaceOfMind/
 2. Install dependencies:
 npm install
 3. Configure environment variables by creating a .env file in the root directory with the following:
