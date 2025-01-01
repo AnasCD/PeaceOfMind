@@ -40,11 +40,24 @@ This project is a web application designed to bridge the gap between therapists 
 
 
 ## Getting Started
+### Prereq
++ Node.js (v16+)
++ PostgreSQL
++ Git
 
 # Setup Instructions
 1. Clone the repository:
-git clone https://github.com/your-username/therapist-patient-platform.git
+git clone https://github.com/AnasCD/PeaceOfMind.git
 cd therapist-patient-platform
-2. 
-3. 
-4. 
+2. Install dependencies:
+npm install
+3. Configure environment variables by creating a .env file in the root directory with the following:
+DATABASE_URL=your_postgresql_database_url
+JWT_SECRET=your_secret_key
+PORT=5000
+4. Setup database:
+npx sequelize-cli db:migrate
+5. Start the server:
+npm start/ npm run dev
+6. Access the app
+http://localhost:3000
